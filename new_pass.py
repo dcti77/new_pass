@@ -15,3 +15,4 @@ else:
     new_password = "".join(password)
 print(new_password)
 print(entry - entry//4 *4 )
+print('Hi')
